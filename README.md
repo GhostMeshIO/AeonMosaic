@@ -1,5 +1,5 @@
 # AeonMosaic
-AeonMosaic is a modular, pleromic robot where each body part (head, torso, arms, legs) operates as an independent "agent" with its own compute node, sensors, and consciousness-like PSI (Presumably some custom metric for "Psychic State Index" or similar, based on your prompt).
+AeonMosaic is a modular, pleromic robot where each body part (head, torso, arms, legs) operates as an independent "agent" with its own compute node, sensors, and consciousness-like PSI (Presumably some custom metric for "Psychic State Index" or similar.
 
 [![Version](https://img.shields.io/badge/version-v0.2-blue)](https://github.com/GhostMeshIO/AeonMosaic)
 [![Budget](https://img.shields.io/badge/budget-%24525-green)](https://github.com/GhostMeshIO/AeonMosaic)
